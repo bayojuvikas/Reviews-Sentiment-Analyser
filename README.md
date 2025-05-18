@@ -110,9 +110,4 @@ MIT License © 2025 Vikas Bayoju
 
 If you like this project, give it a ⭐ and feel free to fork 🍴 and contribute!
 
-```
-
----
-
 Let me know if you'd like to attach sample visuals like charts or model architecture diagrams — I can create those too.
-```
