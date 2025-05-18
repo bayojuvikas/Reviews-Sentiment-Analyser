@@ -1,0 +1,11 @@
+ID,Review_Text,Verified_Buyer,Review_Date,Review_Location,Review_Upvotes,Review_Downvotes,Product,Brand,Scrape_Date,Review_Title,sentiment
+3000,Perfect for sensitive skin like mine.,Yes,2024-10-01,Mumbai,37,87,Moisturizer,Dot & Key,2025-05-17,Not as expected,
+3001,Felt overpriced for the performance it offers.,No,2023-06-18,Bangalore,36,61,Serum,Dot & Key,2025-05-17,Very effective,
+3002,"I’ve tried many, but this one stands out.",No,2025-03-30,Hyderabad,14,47,Moisturizer,Cetaphil,2025-05-17,Very effective,
+3003,Love it! Makes my skin feel soft and hydrated.,Yes,2023-01-28,Hyderabad,29,43,Face Wash,CeraVe,2025-05-17,Highly recommended,
+3004,Felt overpriced for the performance it offers.,No,2023-01-07,Hyderabad,76,92,Moisturizer,CeraVe,2025-05-17,Waste of money,
+3005,Felt overpriced for the performance it offers.,Yes,2024-02-29,Hyderabad,83,74,Face Wash,Dot & Key,2025-05-17,Amazing Product!,
+3006,"I’ve tried many, but this one stands out.",No,2025-04-03,Mumbai,83,26,Moisturizer,CeraVe,2025-05-17,Not as expected,
+3007,This product has done wonders for my skin in just a week.,No,2024-09-03,Chennai,22,42,Serum,Cetaphil,2025-05-17,Waste of money,
+3008,The texture and smell are great. Very satisfied.,No,2023-02-10,Hyderabad,29,22,Serum,Cetaphil,2025-05-17,Amazing Product!,
+3009,The texture and smell are great. Very satisfied.,No,2023-07-11,Bangalore,61,0,Hydrating Gel,CeraVe,2025-05-17,Amazing Product!,

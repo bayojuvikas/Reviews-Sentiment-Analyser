@@ -1,0 +1,101 @@
+ID,Review_Text,Verified_Buyer,Review_Date,Review_Location,Review_Upvotes,Review_Downvotes,Product,Brand,Scrape_Date,Review_Title,sentiment
+1000,Absolutely love the texture and results.,Yes,2024-03-29,Hyderabad,47,24,Sunscreen,CeraVe,2025-05-17,Great product!,Positive
+1001,Hydrated my face and left it glowing.,Yes,2024-10-17,Delhi,11,14,Face Wash,Dot & Key,2025-05-17,Great product!,Positive
+1002,Caused irritation and redness.,Yes,2023-02-13,Delhi,0,0,Face Wash,CeraVe,2025-05-17,Not recommended,Negative
+1003,"Waste of money, no visible results.",Yes,2024-02-08,Chennai,39,20,Night Cream,Cetaphil,2025-05-17,Not recommended,Negative
+1004,"Waste of money, no visible results.",No,2023-12-07,Delhi,47,1,Sunscreen,Dot & Key,2025-05-17,Not recommended,Negative
+1005,Reduced my acne and dark spots significantly.,Yes,2023-08-26,Chennai,25,25,Hydrating Gel,Neutrogena,2025-05-17,Great product!,Positive
+1006,Too oily and broke me out.,Yes,2023-10-20,Bangalore,44,3,Night Cream,Neutrogena,2025-05-17,Not recommended,Negative
+1007,Hydrated my face and left it glowing.,No,2023-08-05,Bangalore,47,29,Face Wash,CeraVe,2025-05-17,Great product!,Positive
+1008,This product worked wonders for my skin!,No,2024-10-29,Chennai,3,4,Night Cream,Neutrogena,2025-05-17,Great product!,Positive
+1009,Reduced my acne and dark spots significantly.,No,2023-11-30,Bangalore,49,2,Hydrating Gel,CeraVe,2025-05-17,Great product!,Positive
+1010,Reduced my acne and dark spots significantly.,No,2023-05-06,Hyderabad,2,2,Face Wash,Dot & Key,2025-05-17,Great product!,Positive
+1011,Caused irritation and redness.,No,2023-04-29,Bangalore,27,13,Sunscreen,Cetaphil,2025-05-17,Not recommended,Negative
+1012,Too oily and broke me out.,No,2024-09-06,Chennai,9,8,Hydrating Gel,Dot & Key,2025-05-17,Not recommended,Negative
+1013,Didn't work at all for my skin.,No,2023-05-26,Hyderabad,37,15,Face Wash,Cetaphil,2025-05-17,Not recommended,Negative
+1014,"Waste of money, no visible results.",No,2023-03-26,Mumbai,2,0,Sunscreen,CeraVe,2025-05-17,Not recommended,Negative
+1015,Too oily and broke me out.,No,2023-11-23,Chennai,45,3,Hydrating Gel,Neutrogena,2025-05-17,Not recommended,Negative
+1016,"Waste of money, no visible results.",No,2024-01-09,Delhi,16,28,Night Cream,CeraVe,2025-05-17,Not recommended,Negative
+1017,Will definitely repurchase. Highly recommend!,Yes,2023-09-12,Chennai,25,5,Hydrating Gel,Neutrogena,2025-05-17,Great product!,Positive
+1018,Didn't work at all for my skin.,Yes,2024-02-08,Bangalore,46,18,Night Cream,Dot & Key,2025-05-17,Not recommended,Negative
+1019,This product worked wonders for my skin!,No,2024-09-21,Mumbai,36,13,Face Wash,CeraVe,2025-05-17,Great product!,Positive
+1020,Too oily and broke me out.,Yes,2023-05-11,Mumbai,45,10,Sunscreen,Neutrogena,2025-05-17,Not recommended,Negative
+1021,Hydrated my face and left it glowing.,No,2024-09-04,Mumbai,17,29,Sunscreen,Neutrogena,2025-05-17,Great product!,Positive
+1022,Didn't work at all for my skin.,No,2024-03-05,Mumbai,0,16,Face Wash,Dot & Key,2025-05-17,Not recommended,Negative
+1023,Hydrated my face and left it glowing.,Yes,2024-07-13,Mumbai,29,25,Night Cream,Dot & Key,2025-05-17,Great product!,Positive
+1024,Will definitely repurchase. Highly recommend!,Yes,2023-01-06,Hyderabad,20,6,Night Cream,Dot & Key,2025-05-17,Great product!,Positive
+1025,Caused irritation and redness.,Yes,2024-04-07,Hyderabad,4,7,Face Wash,CeraVe,2025-05-17,Not recommended,Negative
+1026,Didn't work at all for my skin.,Yes,2024-07-06,Mumbai,5,12,Night Cream,CeraVe,2025-05-17,Not recommended,Negative
+1027,"Waste of money, no visible results.",No,2024-06-23,Bangalore,31,3,Sunscreen,Dot & Key,2025-05-17,Not recommended,Negative
+1028,Will definitely repurchase. Highly recommend!,Yes,2023-09-14,Chennai,35,21,Sunscreen,Cetaphil,2025-05-17,Great product!,Positive
+1029,Absolutely love the texture and results.,No,2023-07-24,Chennai,45,21,Sunscreen,CeraVe,2025-05-17,Great product!,Positive
+1030,Hydrated my face and left it glowing.,No,2024-06-15,Mumbai,10,18,Sunscreen,Cetaphil,2025-05-17,Great product!,Positive
+1031,This product worked wonders for my skin!,No,2024-04-19,Mumbai,16,4,Hydrating Gel,Neutrogena,2025-05-17,Great product!,Positive
+1032,Reduced my acne and dark spots significantly.,Yes,2024-06-30,Hyderabad,34,18,Face Wash,CeraVe,2025-05-17,Great product!,Positive
+1033,Hydrated my face and left it glowing.,No,2023-07-20,Chennai,40,6,Hydrating Gel,Neutrogena,2025-05-17,Great product!,Positive
+1034,Hydrated my face and left it glowing.,No,2024-07-20,Delhi,39,23,Sunscreen,CeraVe,2025-05-17,Great product!,Positive
+1035,"Waste of money, no visible results.",Yes,2023-03-22,Hyderabad,44,21,Night Cream,Neutrogena,2025-05-17,Not recommended,Negative
+1036,This product worked wonders for my skin!,Yes,2023-04-30,Bangalore,14,7,Sunscreen,Cetaphil,2025-05-17,Great product!,Positive
+1037,Too oily and broke me out.,Yes,2023-01-12,Bangalore,34,18,Face Wash,Dot & Key,2025-05-17,Not recommended,Negative
+1038,Will definitely repurchase. Highly recommend!,Yes,2024-04-26,Bangalore,21,15,Face Wash,Neutrogena,2025-05-17,Great product!,Positive
+1039,Very disappointed with the quality.,No,2023-09-25,Chennai,3,0,Face Wash,Dot & Key,2025-05-17,Not recommended,Negative
+1040,Will definitely repurchase. Highly recommend!,Yes,2024-09-01,Delhi,11,14,Hydrating Gel,CeraVe,2025-05-17,Great product!,Positive
+1041,Caused irritation and redness.,Yes,2024-06-10,Mumbai,15,7,Hydrating Gel,Neutrogena,2025-05-17,Not recommended,Negative
+1042,Absolutely love the texture and results.,No,2023-04-17,Mumbai,1,19,Face Wash,CeraVe,2025-05-17,Great product!,Positive
+1043,"Waste of money, no visible results.",No,2024-08-07,Chennai,40,23,Night Cream,CeraVe,2025-05-17,Not recommended,Negative
+1044,Will definitely repurchase. Highly recommend!,Yes,2023-01-24,Bangalore,29,16,Hydrating Gel,Dot & Key,2025-05-17,Great product!,Positive
+1045,Absolutely love the texture and results.,No,2024-12-13,Mumbai,13,26,Sunscreen,Dot & Key,2025-05-17,Great product!,Positive
+1046,Absolutely love the texture and results.,Yes,2024-01-25,Bangalore,37,8,Sunscreen,Dot & Key,2025-05-17,Great product!,Positive
+1047,Will definitely repurchase. Highly recommend!,No,2023-02-21,Bangalore,44,18,Night Cream,Cetaphil,2025-05-17,Great product!,Positive
+1048,Absolutely love the texture and results.,No,2023-08-26,Hyderabad,25,28,Sunscreen,Cetaphil,2025-05-17,Great product!,Positive
+1049,Too oily and broke me out.,Yes,2023-10-07,Chennai,46,28,Sunscreen,Dot & Key,2025-05-17,Not recommended,Negative
+1050,Hydrated my face and left it glowing.,Yes,2024-09-17,Delhi,15,15,Sunscreen,Dot & Key,2025-05-17,Great product!,Positive
+1051,Reduced my acne and dark spots significantly.,Yes,2024-04-21,Hyderabad,23,10,Face Wash,CeraVe,2025-05-17,Great product!,Positive
+1052,Absolutely love the texture and results.,Yes,2024-05-16,Delhi,34,0,Sunscreen,Cetaphil,2025-05-17,Great product!,Positive
+1053,Absolutely love the texture and results.,Yes,2024-11-07,Chennai,30,6,Night Cream,CeraVe,2025-05-17,Great product!,Positive
+1054,Didn't work at all for my skin.,Yes,2023-10-11,Delhi,50,12,Night Cream,Dot & Key,2025-05-17,Not recommended,Negative
+1055,Will definitely repurchase. Highly recommend!,Yes,2024-08-14,Mumbai,33,6,Night Cream,Dot & Key,2025-05-17,Great product!,Positive
+1056,This product worked wonders for my skin!,No,2024-09-27,Chennai,47,29,Face Wash,CeraVe,2025-05-17,Great product!,Positive
+1057,Absolutely love the texture and results.,No,2023-04-19,Bangalore,21,3,Face Wash,Dot & Key,2025-05-17,Great product!,Positive
+1058,Didn't work at all for my skin.,No,2023-09-30,Bangalore,9,8,Face Wash,CeraVe,2025-05-17,Not recommended,Negative
+1059,Will definitely repurchase. Highly recommend!,Yes,2023-08-24,Bangalore,18,14,Hydrating Gel,Cetaphil,2025-05-17,Great product!,Positive
+1060,Absolutely love the texture and results.,Yes,2024-02-15,Bangalore,8,26,Night Cream,Dot & Key,2025-05-17,Great product!,Positive
+1061,Too oily and broke me out.,No,2023-10-29,Bangalore,14,0,Night Cream,Dot & Key,2025-05-17,Not recommended,Negative
+1062,Reduced my acne and dark spots significantly.,No,2023-05-02,Delhi,11,22,Sunscreen,CeraVe,2025-05-17,Great product!,Positive
+1063,Too oily and broke me out.,No,2024-06-19,Chennai,26,4,Face Wash,CeraVe,2025-05-17,Not recommended,Negative
+1064,Caused irritation and redness.,No,2023-07-25,Delhi,9,4,Face Wash,CeraVe,2025-05-17,Not recommended,Negative
+1065,This product worked wonders for my skin!,Yes,2024-02-24,Bangalore,4,6,Face Wash,CeraVe,2025-05-17,Great product!,Positive
+1066,Very disappointed with the quality.,No,2023-01-30,Mumbai,19,1,Hydrating Gel,Dot & Key,2025-05-17,Not recommended,Negative
+1067,Absolutely love the texture and results.,Yes,2024-08-15,Mumbai,2,2,Face Wash,Cetaphil,2025-05-17,Great product!,Positive
+1068,Reduced my acne and dark spots significantly.,No,2023-03-20,Mumbai,29,12,Sunscreen,CeraVe,2025-05-17,Great product!,Positive
+1069,Too oily and broke me out.,Yes,2023-12-20,Mumbai,2,26,Night Cream,CeraVe,2025-05-17,Not recommended,Negative
+1070,Absolutely love the texture and results.,No,2024-04-19,Hyderabad,24,14,Night Cream,Cetaphil,2025-05-17,Great product!,Positive
+1071,Absolutely love the texture and results.,No,2023-06-07,Bangalore,10,0,Face Wash,Cetaphil,2025-05-17,Great product!,Positive
+1072,Didn't work at all for my skin.,Yes,2024-08-28,Mumbai,44,24,Sunscreen,Cetaphil,2025-05-17,Not recommended,Negative
+1073,"Waste of money, no visible results.",No,2024-06-23,Delhi,18,22,Face Wash,Dot & Key,2025-05-17,Not recommended,Negative
+1074,This product worked wonders for my skin!,Yes,2024-09-26,Delhi,43,14,Hydrating Gel,Neutrogena,2025-05-17,Great product!,Positive
+1075,Caused irritation and redness.,Yes,2024-05-18,Bangalore,21,1,Hydrating Gel,Cetaphil,2025-05-17,Not recommended,Negative
+1076,"Waste of money, no visible results.",No,2024-04-13,Chennai,36,27,Hydrating Gel,CeraVe,2025-05-17,Not recommended,Negative
+1077,Caused irritation and redness.,Yes,2024-04-18,Chennai,30,21,Face Wash,CeraVe,2025-05-17,Not recommended,Negative
+1078,Very disappointed with the quality.,No,2024-09-05,Mumbai,30,27,Face Wash,Cetaphil,2025-05-17,Not recommended,Negative
+1079,Hydrated my face and left it glowing.,Yes,2024-07-12,Bangalore,6,5,Face Wash,Cetaphil,2025-05-17,Great product!,Positive
+1080,Very disappointed with the quality.,Yes,2023-05-03,Delhi,18,4,Sunscreen,CeraVe,2025-05-17,Not recommended,Negative
+1081,Hydrated my face and left it glowing.,Yes,2023-11-25,Hyderabad,7,9,Hydrating Gel,Cetaphil,2025-05-17,Great product!,Positive
+1082,Very disappointed with the quality.,No,2024-10-19,Mumbai,6,15,Sunscreen,Neutrogena,2025-05-17,Not recommended,Negative
+1083,Very disappointed with the quality.,Yes,2024-07-21,Bangalore,1,30,Hydrating Gel,Cetaphil,2025-05-17,Not recommended,Negative
+1084,"Waste of money, no visible results.",Yes,2024-10-04,Mumbai,8,11,Sunscreen,CeraVe,2025-05-17,Not recommended,Negative
+1085,Very disappointed with the quality.,No,2024-06-11,Delhi,33,7,Hydrating Gel,Dot & Key,2025-05-17,Not recommended,Negative
+1086,This product worked wonders for my skin!,No,2023-12-17,Delhi,5,28,Sunscreen,Neutrogena,2025-05-17,Great product!,Positive
+1087,Caused irritation and redness.,No,2023-06-22,Bangalore,19,10,Hydrating Gel,Dot & Key,2025-05-17,Not recommended,Negative
+1088,Too oily and broke me out.,Yes,2023-10-30,Hyderabad,16,14,Face Wash,CeraVe,2025-05-17,Not recommended,Negative
+1089,Didn't work at all for my skin.,Yes,2023-11-08,Delhi,35,15,Hydrating Gel,Cetaphil,2025-05-17,Not recommended,Negative
+1090,Will definitely repurchase. Highly recommend!,Yes,2023-03-04,Hyderabad,15,8,Hydrating Gel,Cetaphil,2025-05-17,Great product!,Positive
+1091,Hydrated my face and left it glowing.,Yes,2023-08-01,Mumbai,12,7,Night Cream,Dot & Key,2025-05-17,Great product!,Positive
+1092,Absolutely love the texture and results.,No,2023-07-26,Bangalore,38,14,Night Cream,Dot & Key,2025-05-17,Great product!,Positive
+1093,This product worked wonders for my skin!,No,2024-01-07,Mumbai,36,24,Sunscreen,CeraVe,2025-05-17,Great product!,Positive
+1094,This product worked wonders for my skin!,Yes,2024-05-08,Delhi,47,11,Face Wash,Cetaphil,2025-05-17,Great product!,Positive
+1095,Reduced my acne and dark spots significantly.,No,2024-10-30,Delhi,44,23,Sunscreen,Cetaphil,2025-05-17,Great product!,Positive
+1096,Caused irritation and redness.,No,2023-01-29,Mumbai,28,6,Face Wash,Cetaphil,2025-05-17,Not recommended,Negative
+1097,Caused irritation and redness.,No,2024-02-15,Chennai,45,15,Sunscreen,CeraVe,2025-05-17,Not recommended,Negative
+1098,Too oily and broke me out.,No,2024-11-07,Bangalore,21,19,Night Cream,Cetaphil,2025-05-17,Not recommended,Negative
+1099,Absolutely love the texture and results.,No,2024-12-28,Mumbai,43,29,Sunscreen,Dot & Key,2025-05-17,Great product!,Positive
