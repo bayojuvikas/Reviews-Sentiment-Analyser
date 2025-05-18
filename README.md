@@ -1,4 +1,4 @@
-````
+
 # 🧠 Sentiment Analysis on Skincare Product Reviews using DistilBERT 💬🧴
 
 ![Model](https://img.shields.io/badge/Model-DistilBERT-blue) ![Made with PyTorch](https://img.shields.io/badge/Made%20with-PyTorch-red) ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
